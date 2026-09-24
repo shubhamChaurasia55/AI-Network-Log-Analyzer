@@ -1,0 +1,14 @@
+2024-01-15 08:23:01 [INFO] Server started on port 8080
+2024-01-15 08:23:05 [INFO] Connected to database successfully
+2024-01-15 08:24:12 [WARN] High latency detected on eth0 (250ms)
+2024-01-15 08:25:30 [ERROR] DNS resolution failed for api.example.com
+2024-01-15 08:26:01 [INFO] Retrying connection to api.example.com
+2024-01-15 08:26:45 [ERROR] Connection timed out to 10.0.0.1:443
+2024-01-15 08:27:10 [ERROR] Authentication failed for user admin from 192.168.1.50
+2024-01-15 08:28:00 [WARN] DNS resolution slow for cdn.example.com (1200ms)
+2024-01-15 08:28:30 [INFO] Health check passed for service-worker-3
+2024-01-15 08:29:15 [ERROR] Connection refused by 10.0.0.2:5432
+2024-01-15 08:30:00 [ERROR] DNS resolution failed for auth.internal.net
+2024-01-15 08:30:45 [WARN] Connection timeout warning for redis-cluster
+2024-01-15 08:31:20 [INFO] Cache cleared successfully
+2024-01-15 08:32:00 [ERROR] Authentication failed — invalid token from 172.16.0.10
